@@ -1,0 +1,6 @@
+2026-04-16 03:59:39 | Port 1 | UP | MODIFIED | Failures: 0
+2026-04-16 03:59:39 | Port 1 | DOWN | MODIFIED | Failures: 1
+2026-04-16 04:00:13 | Port 1 | DOWN | MODIFIED | Failures: 2
+2026-04-16 04:00:13 | Port 1 | UP | MODIFIED | Failures: 2
+2026-04-16 04:03:43 | Port 1 | UP | MODIFIED | Failures: 2
+2026-04-16 04:03:43 | Port 1 | DOWN | MODIFIED | Failures: 3
